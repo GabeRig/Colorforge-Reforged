@@ -7,7 +7,7 @@ ColorFlow's original description:
 
 
 
-Colorflow
+Colorflow[/n]
 Stop Guessing Which Block Matches Your Color Palette
 
 You've been there. You're building something big — a castle, a city, a terraformed landscape, a pixel art piece — and you need a specific color. Not "kinda brown." Not "something between terracotta and concrete." You need a precise shade, and you need to know which Minecraft block is the closest match.
