@@ -176,8 +176,8 @@ Open Source
 
 Colorflow is open source under the MIT License.
 
-    [Bug reports](https://discord.gg/pnJhKuU2QK)
-    [Feature requests](https://discord.gg/pnJhKuU2QK)
+    Bug reports: https://discord.gg/pnJhKuU2QK
+    Feature requests: https://discord.gg/pnJhKuU2QK
 
 Contributions welcome. If you're a Fabric developer and want to improve the color algorithm, add features, or fix bugs, pull requests are open.
 
