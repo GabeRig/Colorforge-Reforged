@@ -1,0 +1,26 @@
+{
+    "schemaVersion": 1,
+    "id": "colorflow",
+    "version": "${version}",
+    "name": "Colorflow",
+    "description": "The ultimate color tool for builders, architects, and Build The Earth players.",
+    "authors": ["MaxLananas/PineappleCompany"],
+    "contact": {
+        "homepage": "https://modrinth.com/mod/colorflow",
+        "sources": ""
+    },
+    "license": "MIT",
+    "icon": "assets/colorflow/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "com.pineapplecompany.colorflow.ColorflowClient"
+        ]
+    },
+    "depends": {
+        "fabricloader": ">=0.19.0",
+        "minecraft": "~1.21.5",
+        "java": ">=21",
+        "fabric-api": "*"
+    }
+}
